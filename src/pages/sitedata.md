@@ -16,8 +16,8 @@ socialLinks:
     url: ""
     show: false
   linkedin:
-    url: ""
-    show: false
+    url: https://www.linkedin.com/in/energy-policy-strategy/
+    show: true
   pinterest:
     url: ""
     show: false

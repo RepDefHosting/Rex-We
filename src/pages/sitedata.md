@@ -1,31 +1,31 @@
 ---
-templateKey: 'site-data'
+templateKey: site-data
 published: false
-name: '{{client_name}}'
-jobTitle: '{{job_title}}'
-siteName: '{{site_name}}'
-siteUrl: 'https://{{site_url}}'
-siteAnalytics: ~
+name: Rex Wempen
+jobTitle: Managing Director at Pantek Securities
+siteName: Rex Wempen
+siteUrl: https://Rexwempen.us
+siteAnalytics: null
+favicon: /img/rex-profile.jpg
+fallbackImage: /img/rex-profile.jpg
 socialLinks:
   twitter:
-    url: ''
+    url: ""
     show: false
   facebook:
-    url: ''
+    url: ""
     show: false
   linkedin:
-    url: ''
+    url: ""
     show: false
   pinterest:
-    url: ''
+    url: ""
     show: false
   instagram:
-    url: ''
+    url: ""
     show: false
-favicon: '/img/favicon.png'
-fallbackImage: '/img/headshot.jpg'
 themeOptions:
-  colorScheme: 'londn'
-  fontScheme: 'muli'
-  showThemeSwitcher: false
+  colorScheme: londn
+  fontScheme: muli
+  showThemeSwitcher: true
 ---

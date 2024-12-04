@@ -12,7 +12,7 @@ schemaType: AboutPage
 header: About Rex Wempen
 subheader: Career highlights past and present
 featuredImage:
-  src: /img/rex-wempen-has-over-twenty-years-of-energy-and-technology-sector-experience.jpg
+  src: ""
   alt: Rex Wempen
   caption: null
 longBiography_MD: >-
@@ -37,3 +37,4 @@ longBiography_MD: >-
 
   Following college he served in the U.S. Army, holding leadership roles in infantry, special forces and intelligence, including cyber operations. Mr. Wempen holds an MBA from the University of Southern California and a master’s degree in National Security Studies from Georgetown University. He has a Bachelors in Government from Cornell University and has also completed certifications in data analytics from Purdue University in 2022 and in quantitative finance from Fitch Learning.
 ---
+![](/img/rex-profile.jpg)

@@ -25,7 +25,7 @@ socialLinks:
     url: ""
     show: false
 themeOptions:
-  colorScheme: londn
-  fontScheme: muli
-  showThemeSwitcher: true
+  colorScheme: sand
+  fontScheme: rubik
+  showThemeSwitcher: false
 ---

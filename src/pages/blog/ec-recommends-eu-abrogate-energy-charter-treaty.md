@@ -1,25 +1,25 @@
 ---
-templateKey: blog-post
-schemaType: BlogPosting
-pageTitle: EC recommends EU abrogate Energy Charter Treaty
-metaDescription: The European Commission agreed on March 7 during a meeting to
-  recommend that the European Union abrogate the Energy Charter Treaty that 56
-  European and foreign nations signed in 1994 to promote energy investment in
-  Europe, as initially proposed in July 2023
+pageTitle: G7, EU leaders urge US restraint on sanctions expansion for Russia, China
+metaDescription: Foreign ministers from the Group of Seven (G7) major
+  democracies refused at a meeting in Italy on April 17-19 to endorse calls by
+  the US to confiscate Russian assets and then use them to fund the war in
+  Ukraine
 published: true
-date: 2024-12-23T21:00:06.020Z
-teaser: The European Commission agreed on March 7 during a meeting to recommend
-  that the European Union abrogate the Energy Charter Treaty that 56 European
-  and foreign nations signed in 1994 to promote energy investment in Europe, as
-  initially proposed in July 2023
+date: 2024-12-23T21:00:42.476Z
+teaser: Foreign ministers from the Group of Seven (G7) major democracies refused
+  at a meeting in Italy on April 17-19 to endorse calls by the US to confiscate
+  Russian assets and then use them to fund the war in Ukraine
 featuredImage:
-  src: /img/europe-pursues-energy-diversification.jpg
+  src: /img/europe-avoids-winter-.jpg
 ---
-The European Commission agreed on March 7 during a meeting to recommend that the European Union abrogate the Energy Charter Treaty that 56 European and foreign nations signed in 1994 to promote energy investment in Europe, as initially proposed in July 2023. [[Reuters](https://email.cpg-online.de/t/d-l-eydkdkd-l-ddi/)]
+Foreign ministers from the Group of Seven (G7) major democracies refused at a meeting in Italy on April 17-19 to endorse calls by the US to confiscate Russian assets and then use them to fund the war in Ukraine. [[FRG Federal Foreign Office](https://email.cpg-online.de/t/d-l-ejhddyd-l-bj/)]
 
-Since the treaty entered force in 1998, it has enabled private companies to sue European governments that broke energy purchase contracts and tax agreements or reversed permitting approvals in an international court convened at the World Bank. [[EC](https://email.cpg-online.de/t/d-l-eydkdkd-l-ddd/)]
+Germany, France, Italy, and the European Central Bank have opposed an expansion in sanctions. European Central Bank chief Christine Lagarde said in an interview at the Council on Foreign Relations on April 17 that moving beyond the current asset freeze to outright seizure would set a negative international precedent.
 
-Supporters of abrogation are concerned that continued treaty adherence will stymie EU plans to force a reduction in oil and gas refining and production, as well as coal power, in favour of renewable energy projects.
+A move of this kind could justify Russia's cessation of cooperation with international financial institutions, "breaking the international legal order," and raising the risk that other countries may follow suit, Lagarde said. [[CFR](https://email.cpg-online.de/t/d-l-ejhddyd-l-bt/)]
 
-The European Parliament continued to push ahead to advance EU clean energy policies and approved the Energy Performance of Buildings Directive on March 12, which mandates new EU-wide building energy efficiency standards. [[EU](https://email.cpg-online.de/t/d-l-eydkdkd-l-ddh/)]\
-[R﻿ead More](https://email.cpg-online.de/t/d-74CA97983E5C4FA42540EF23F30FEDED)
+A week after the G7 meeting in the Italian city of Capri, US President Joe Biden signed a law providing American military aid to Kyiv, including a provision that allows the seizure of Russian assets in the US to partially defray the cost of supporting Ukraine. [[POTUS](https://email.cpg-online.de/t/d-l-ejhddyd-l-bi/)]
+
+In March, European leaders agreed to allow the profits from Russian assets in Europe to be channelled toward Ukrainian aid but not to seize the assets themselves. Following Moscow’s invasion of Ukraine, EUR 281 billion Russian assets were frozen worldwide.
+
+[R﻿ead More](https://email.cpg-online.de/t/d-D7F3B5605FA0BD852540EF23F30FEDED)

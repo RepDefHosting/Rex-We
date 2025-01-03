@@ -37,6 +37,8 @@ Inadvertently, Russian and Ukrainian wheat imports to Europe have combined to mo
 
 Russian [production](https://ipad.fas.usda.gov/countrysummary/default.aspx?id=RS&crop=Wheat) increased 15% to 92 million tons per year during the two-year period. Ukrainian supplies have also remained stable. Russia was the largest global wheat exporter in 2021 and has remained so. Ukraine was [fifth](https://www.rferl.org/a/top-10-wheat-exporters-russia-ukraine/31871594.html), just behind the entire EU taken as a bloc, Australia, and the U.S.
 
+![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F17277cb0-974c-419a-9ce8-7f0be69956e1_828x673.png)
+
 After the Russian invasion of Ukraine, global wheat prices [spiked](https://www.uswheat.org/wheatletter/russian-intervention-has-fueled-every-wheat-price-spike-since-2007/) given concerns Ukrainian grain would be taken off the market, raising [fears](https://www.wsj.com/articles/how-food-became-putins-new-strategic-weapon-11656849602) about famine in countries that relied heavily on grain imports from both countries. The European Union (EU) and the U.S. blamed Russia’s invasion for the price spike in 2022, while African countries warned that it was Western sanctions threatening food supplies.
 
 To alleviate concerns about global food supplies, the United Nations and Turkey brokered an agreement between Russia and Ukraine that allowed wheat exports. Russia pulled out of the deal in July 2023, claiming that the terms of the agreement had not been fulfilled to merit a further extension.

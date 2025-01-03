@@ -13,7 +13,7 @@ teaser: "Global grain prices have remained stable since the European Commission
 featuredImage:
   src: /img/chartseurocapitalinsights.webp
 ---
-##### *O﻿riginally published at [European Capital Insights](https://europeancapitalinsights.substack.com/p/eu-levies-russian-wheat-tariffs-to)*
+##### *Originally published at [European Capital Insights](https://europeancapitalinsights.substack.com/p/eu-levies-russian-wheat-tariffs-to) on May 3, 2024*
 
 Global grain prices have remained stable since the European Commission (EC) [recommended](https://neighbourhood-enlargement.ec.europa.eu/news/commission-proposes-increased-tariffs-russian-and-belarusian-grain-products-2024-03-22_en) increased tariffs on Russian wheat imports to 50% in response to declining local prices across the continent this year.
 

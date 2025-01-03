@@ -45,4 +45,31 @@ As machine learning models, such as ChatGPT, become more advanced, the computati
 
 Underscoring AI’s need for power, Microsoft Corp. [posted](https://www.cnbc.com/2023/09/25/microsoft-is-hiring-a-nuclear-energy-expert-to-help-power-data-centers.html) a job description in September seeking a nuclear technology expert to lead the company’s technical assessment for integrating small modular nuclear reactors and microreactors to power the data centers for Microsoft Cloud and AI.
 
-> R﻿ead [More](https://europeancapitalinsights.substack.com/p/ai-will-help-drive-eu-electricity?utm_source=publication-search)
+### ***Data Center Challenges***
+
+The expected increase in electricity demand comes as a [European data center shortage](https://www.reuters.com/technology/european-data-centres-grapple-with-ai-driven-demand-space-2024-02-27/) worsens, according to data center research at CBRE. Amazon Inc., Alphabet Inc., and Microsoft are looking in Europe for carbon-free energy to meet that demand.
+
+European regions with a strong presence in financial services and acting as big tech hubs could take a larger share of the data centers pie. Countries offering incentives to attract data centers and support faster electrification technology adoption could benefit from a larger share.
+
+European data center capacity is relatively concentrated and is mostly located in the Nordics, Frankfurt, London, Amsterdam, Paris, and Dublin (FLAP-D). According to Roland Berger, a Munich-based global management consultancy, demand for the FLAP-D markets grew almost 30% in the past three years.![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb999058f-0711-4018-94c5-69cc3f430276_1335x786.jpeg)
+
+
+
+\
+***SAP Is Well Positioned***
+
+Analysts are pessimistic that European companies will be able to compete with their US counterparts. Lagging technology largely explains why major European firms are underperforming their US counterparts, McKinsey Global Institute [said](https://www.mckinsey.com/mgi/overview/in-the-news/addressing-europes-corporate-technology-gap) in 2022.
+
+Two companies that may buck the trend are German-based SAP SE ([SAP](https://finance.yahoo.com/quote/SAP)), the [biggest AI](https://finance.yahoo.com/news/16-biggest-publicly-traded-ai-130202972.html) company in Europe, and France-based OVHcloud ([OVH.PA](https://finance.yahoo.com/quote/OVH.PA/)), the largest provider of cloud services in the region, with over 1.4 million users and 30 data centers across four continents.
+
+With a market capitalization of over $220 billion, SAP has enough liquidity to invest in technologies and sustainable practices and could further strengthen its position by adopting advanced energy solutions in its data centers.
+
+Over the past year, SAP generated $31.8 billion in revenue and 7.65 billion in EBITDA, producing a profit margin of over 15% and yielding a [free cash flow of 18%](https://stockanalysis.com/stocks/sap/financials/cash-flow-statement/).
+
+##### ***OVHCloud***
+
+Despite its share price being down 27% year-to-date (YTD) and 66% since listing in 2021. OVH’s revenue has increased year-on-year from 2019 and is projected to increase at 11.3% per year. Earnings growth is expected to soar over [100%](https://finance.yahoo.com/news/euronext-paris-growth-companies-high-060432720.html) annually.
+
+OVH said it expects profit margins to increase by over [37%](https://www.reuters.com/technology/cybersecurity/ovh-groupe-h1-core-profit-beats-forecasts-2024-04-23/) in 2024 due to recent efforts to cut costs and raise the prices of its services.
+
+The company [said](https://thenewstack.io/ovhcloud-unveils-roadmap-to-take-on-hyperscalers-from-europe/) it plans to launch a new data platform to facilitate customer data projects, an AI endpoint service to enable API-based AI, and an AI App Builder with market-standard AI solutions in its attempt to offer more value for customers’ investments.

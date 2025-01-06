@@ -5,12 +5,14 @@ pageTitle: German industry gets new energy subsidies
 metaDescription: German Finance Minister Christian Lindner announced EUR 83.3
   billion will be spent to offset gas and district heating in 2024
 published: true
-date: 2024-12-23T20:54:15.931Z
+date: 2023-12-13T20:54:15.931Z
 teaser: German Finance Minister Christian Lindner announced EUR 83.3 billion
   will be spent to offset gas and district heating in 2024
 featuredImage:
   src: /img/europe-avoids-winter-.jpg
 ---
+##### *Originally published at [Europe in Review](https://email.cpg-online.de/t/d-8360028D4E10DA0C2540EF23F30FEDED) on December, 2023*
+
 German Finance Minister Christian Lindner announced EUR 83.3 billion will be spent to offset gas and district heating in 2024, as well as offset the economic rescue of German utility Uniper SE, the country’s largest natural gas importer. [[Bloomberg](https://email.cpg-online.de/t/d-l-vkyhijt-l-jjh/)]
 
 German Economy Minister Robert Habeck announced EUR 28 billion in electricity tax breaks for German industry to offset natural gas price increases through 2027, from Euro 15.37 per kilowatt hour (kWh) to Euro Cent 50 per kWh, sending industrial stocks soaring. [[Bloomberg](https://email.cpg-online.de/t/d-l-vkyhijt-l-jjk/)]
@@ -22,7 +24,3 @@ German Chancellor Olaf Scholz and Italian Prime Minister Giorgia Meloni signed a
 Tunisia plans to produce over eight million tons of hydrogen per year, mainly for export to Europe, by 2050 and to produce 4 million tons annually by 2030.
 
 (rw/gc)
-
-
-
-[R﻿ead More](https://email.cpg-online.de/t/d-8360028D4E10DA0C2540EF23F30FEDED)

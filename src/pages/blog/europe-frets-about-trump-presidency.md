@@ -6,7 +6,7 @@ metaDescription: European policymakers have expressed concerns about a wide
   range of issues from climate change, security and trade if Donald Trump wins
   another four year term in office.
 published: true
-date: 2024-12-05T21:35:16.424Z
+date: 2024-07-27T20:35:16.424Z
 teaser: European policymakers have expressed concerns about a wide range of
   issues from climate change, security and trade if Donald Trump wins another
   four year term in office.

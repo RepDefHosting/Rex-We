@@ -6,13 +6,15 @@ metaDescription: Energy prices largely remained stable across Europe in April
   after the continent moved to diversify its energy supplies away from Russia
   after Moscow’s invasion of Ukraine in February 2022.
 published: true
-date: 2024-12-17T20:55:21.642Z
+date: 2023-05-05T19:55:21.642Z
 teaser: Energy prices largely remained stable across Europe in April after the
   continent moved to diversify its energy supplies away from Russia after
   Moscow’s invasion of Ukraine in February 2022.
 featuredImage:
   src: /img/european-energy-prices-.jpg
 ---
+##### *Originally published at [Europe in Review](https://email.cpg-online.de/t/d-E1662C61C18D6EF62540EF23F30FEDED) on May, 2023*
+
 Energy prices largely remained stable across Europe in April after the continent moved to diversify its energy supplies away from Russia after Moscow’s invasion of Ukraine in February 2022.
 
 Claudio Descalzi, the CEO of Italian oil and gas major ENI, stated in an interview with La Stampa on April 29 that he expected no energy price shocks this year, claiming: “Dependence on Moscow is behind us, in 2023 gas prices are under control.” [[LS](https://email.cpg-online.de/t/d-l-zuitujy-l-hky/)]
@@ -31,4 +33,4 @@ The European Union (EU) launched a corporate gas group gas purchasing platform o
 
 Companies must register by May 2 in order to participate. Companies can specify pipeline gas or liquified natural gas (LNG). The policy goal of this EU measure is to supply 15 percent of EU gas storage needs, focusing on industry, which has been hard hit by energy price spikes following the curtailment of Russian natural gas supplies subsequent to the Russian invasion of Ukraine. [[Reuters](https://email.cpg-online.de/t/d-l-zuitujy-l-hul/)]
 
-> R﻿ead [More](https://email.cpg-online.de/t/d-E1662C61C18D6EF62540EF23F30FEDED)
+(rw/gc)

@@ -6,13 +6,15 @@ metaDescription: The Russian invasion of Ukraine is rapidly changing how the
   European Union (EU) sets cybersecurity policies as the bloc moves to combat an
   increasing risk of attack against its critical infrastructure.
 published: true
-date: 2024-12-17T20:53:22.979Z
+date: 2023-04-14T16:51:15.091Z
 teaser: The Russian invasion of Ukraine is rapidly changing how the European
   Union (EU) sets cybersecurity policies as the bloc moves to combat an
   increasing risk of attack against its critical infrastructure.
 featuredImage:
   src: /img/europe-pursues-energy-diversification.jpg
 ---
+##### *Originally published at [Europe in Review](https://email.cpg-online.de/t/d-E89FAFE171E704422540EF23F30FEDED) on April, 2023*
+
 The Russian invasion of Ukraine is rapidly changing how the European Union (EU) sets cybersecurity policies as the bloc moves to combat an increasing risk of attack against its critical infrastructure.
 
 European Commission and industry leaders said during a cybersecurity conference on March 23 in Brussels that Europe needed to implement higher security standards for critical infrastructure. The Forum Europe conference was organised in partnership with the European Cyber Security Organisation (ECSO).
@@ -37,4 +39,10 @@ The new baseline will require significant changes for industry as they attempt t
 
 Businesses will be required to have a business continuity plan in case of cyber attack and implement risk management policies and cybersecurity upgrades to meet specified standards. Regulated business sectors, including energy, transport, banking, digital infrastructure, information and communications technology (ICT) service provision, healthcare, and others are specified.
 
-[R﻿ead More](https://email.cpg-online.de/t/d-E89FAFE171E704422540EF23F30FEDED)
+*EU-CyCLONe*
+
+The EU has also established theEuropean Cyber Crises Liaison Organisation Network (EU-CyCLONe). It requires each member state to develop a national strategy to safeguard information systems, including the designation of cyber incident response teams.
+
+The EU will also publish cybersecurity regulations for cloud service providers – including major international companies such as Amazon, Microsoft, Google and Oracle –, Domain Name Service (DNS) providers that administer internet websites, online managed service providers remotely managing information technology assets – such as famous hacking victim Solar Winds – and search engines themselves.
+
+(rw/gc)

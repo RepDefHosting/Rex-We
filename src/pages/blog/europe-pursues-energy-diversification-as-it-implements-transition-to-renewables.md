@@ -6,7 +6,7 @@ metaDescription: European nations have continued to invest in projects that aim
   to diversify the region’s sources of energy, including new wind farms, solar
   fields and oil and gas fields in the North Sea
 published: true
-date: 2024-12-17T20:52:01.936Z
+date: 2023-04-07T19:52:01.936Z
 teaser: European nations have continued to invest in projects that aim to
   diversify the region’s sources of energy, including new wind farms, solar
   fields and oil and gas fields in the North Sea

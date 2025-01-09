@@ -15,6 +15,8 @@ teaser: Winter arrived and a new year began in an energy-insecure Europe without
 featuredImage:
   src: /img/winter-begins.jpg
 ---
+##### *Originally published at [Europe in Review](https://createsend.com/t/d-20C12DDC08E196252540EF23F30FEDED) on January, 2023*
+
 Winter arrived and a new year began in an energy-insecure Europe without incident, with natural gas storage levels sufficient to enable the continent to maintain electricity and heat until spring, provided the weather is not colder than expected. [[DWD](https://cpgfacultyoflawthammasatuniversity.createsend1.com/t/d-l-ztdjidt-l-pl/)] [[Reuters](https://cpgfacultyoflawthammasatuniversity.createsend1.com/t/d-l-ztdjidt-l-pr/)]
 
 Czech Industry and Trade Minister Jozef Sikela, whose country held the rotating presidency of the EU in the second half of 2022, announced that European governments had agreed on a gas price cap on December 19 to insulate both consumers and European businesses from temporary price spikes due to supply shocks. [[WSJ](https://cpgfacultyoflawthammasatuniversity.createsend1.com/t/d-l-ztdjidt-l-py/)] [[European Commission](https://cpgfacultyoflawthammasatuniversity.createsend1.com/t/d-l-ztdjidt-l-pj/)]
@@ -45,6 +47,18 @@ RTE announced that French nuclear power production on December 11 had exceeded 4
 
 UK Secretary of State for Levelling Up, Housing and Communities Michael Gove on December 7 announced approval of the first new coal mine in the country in 30 years. The move should provide additional coal to UK plants supplying baseload power to the British electricity grid as the country, together with the rest of Europe, prolongs the service of coal plants. [[FT](https://cpgfacultyoflawthammasatuniversity.createsend1.com/t/d-l-ztdjidt-l-xr/)]
 
+*EU, G7 impose price cap on Russian oil*
 
+The G7 and the EU imposed a USD 60 (EUR 56) global price cap on Russian oil on December 2 after lone holdout Poland agreed to the measure after negotiations. [[WSJ](https://cpgfacultyoflawthammasatuniversity.createsend1.com/t/d-l-ztdjidt-l-xy/)]
 
-> *R﻿ead [More](https://createsend.com/t/d-20C12DDC08E196252540EF23F30FEDED)*
+However, Russian oil exports from the Kamchatka port of Kozmino were recorded as selling at close to USD 20 above the cap, near world prices within the week, as Asian importers purchased the crude at market prices without regard to the cap. [[European Commission](https://cpgfacultyoflawthammasatuniversity.createsend1.com/t/d-l-ztdjidt-l-xj/)] [[Reuters](https://cpgfacultyoflawthammasatuniversity.createsend1.com/t/d-l-ztdjidt-l-xt/)]
+
+The price of Urals crude, which had predominantly been sold in Europe prior to the Russian invasion of Ukraine, was priced below the cap, at USD 56, on December 27 as Russian President Vladimir Putin declared his country would not sell oil to nations participating in the cap mechanism, including the EU, the G7 and Australia. [[Reuters](https://cpgfacultyoflawthammasatuniversity.createsend1.com/t/d-l-ztdjidt-l-xi/)]
+
+The cap prohibits Western countries from insuring, financing or shipping Russian oil sold above the cap, and the practical result of the measure has been the elimination of Russian crude in EU and G7 markets without a significant effect on global or Russian crude pricing.
+
+Urals crude had been priced at the same approximate level for months, far below the world price, due to the effect of previous Western sanctions. Russia produced around 10.8 million barrels of oil per day in 2021 and is the third largest oil producer in the world behind Saudi Arabia, at 10.9 million, and the United States, at 19 million. [[EIA](https://cpgfacultyoflawthammasatuniversity.createsend1.com/t/d-l-ztdjidt-l-xd/)]
+
+Crude oil reached a three-week high on December 27 as China eased Covid-related travel restrictions and traders anticipated increased demand from an opening Chinese economy. [[Reuters](https://cpgfacultyoflawthammasatuniversity.createsend1.com/t/d-l-ztdjidt-l-xh/)]
+
+(rw/pk)

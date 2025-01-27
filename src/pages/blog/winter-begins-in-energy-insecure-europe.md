@@ -7,7 +7,7 @@ metaDescription: Winter arrived and a new year began in an energy-insecure
   the continent to maintain electricity and heat until spring, provided the
   weather is not colder than expected.
 published: true
-date: 2024-12-17T20:37:39.851Z
+date: 2023-01-11T20:37:39.851Z
 teaser: Winter arrived and a new year began in an energy-insecure Europe without
   incident, with natural gas storage levels sufficient to enable the continent
   to maintain electricity and heat until spring, provided the weather is not
